@@ -1,7 +1,7 @@
 # Links to R or RStudio-related Modules
 :pushpin:([02_RStudio](https://github.com/houga582/CM515-course-2025/tree/main/modules/02_RStudio))
 
-:pushpin:(([04_Tidyverse] (https://github.com/houga582/CM515-course-2025/tree/main/modules/04_Tidyverse))
+:pushpin:([04_Tidyverse](https://github.com/houga582/CM515-course-2025/tree/main/modules/04_Tidyverse))
 
 :pushpin:05_GGplot_Visualization
 
