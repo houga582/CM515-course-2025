@@ -10,7 +10,7 @@
 # Links to Other Modules
 :pushpin:([09_Working_With_Protein_Structures](https://github.com/houga582/CM515-course-2025/tree/main/modules/09_Working_With_Protein_Structures))
 
-:pushpin:11_2D_Genomics
+:pushpin:([11_2D_Genomics](https://github.com/houga582/CM515-course-2025/tree/main/modules/11_2D_Genomics))
 
 # CM515-course-2025
 
