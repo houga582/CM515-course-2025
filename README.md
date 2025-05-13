@@ -1,5 +1,5 @@
 # Links to R or RStudio-related Modules
-:pushpin:02_RStudio
+:pushpin:[02_RStudio] (modules/02_RStudio)
 
 :pushpin:04_Tidyverse
 
