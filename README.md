@@ -1,16 +1,16 @@
 # Links to R or RStudio-related Modules
-:pushpin:([02_RStudio](https://github.com/houga582/CM515-course-2025/tree/main/modules/02_RStudio))
+:pushpin:[02_RStudio](https://github.com/houga582/CM515-course-2025/tree/main/modules/02_RStudio)
 
-:pushpin:([04_Tidyverse](https://github.com/houga582/CM515-course-2025/tree/main/modules/04_Tidyverse))
+:pushpin:[04_Tidyverse](https://github.com/houga582/CM515-course-2025/tree/main/modules/04_Tidyverse)
 
-:pushpin:([05_GGplot_Visualization](https://github.com/houga582/CM515-course-2025/tree/main/modules/05_GGplot_Visualization))
+:pushpin:[05_GGplot_Visualization](https://github.com/houga582/CM515-course-2025/tree/main/modules/05_GGplot_Visualization)
 
-:pushpin:([12_Programming_Basics](https://github.com/houga582/CM515-course-2025/tree/main/modules/12_Programming_Basics))
+:pushpin:[12_Programming_Basics](https://github.com/houga582/CM515-course-2025/tree/main/modules/12_Programming_Basics)
 
 # Links to Other Modules
-:pushpin:([03_Files_and_Folders](https://github.com/houga582/CM515-course-2025/tree/main/modules/03_Files_and_Folders))
+:pushpin:[03_Files_and_Folders](https://github.com/houga582/CM515-course-2025/tree/main/modules/03_Files_and_Folders)
 
-:pushpin:([11_2D_Genomics](https://github.com/houga582/CM515-course-2025/tree/main/modules/11_2D_Genomics))
+:pushpin:[11_2D_Genomics](https://github.com/houga582/CM515-course-2025/tree/main/modules/11_2D_Genomics)
 
 # CM515-course-2025
 
