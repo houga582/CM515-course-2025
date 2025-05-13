@@ -1,12 +1,16 @@
 # Links to R or RStudio-related Modules
-:pushpin: 02_RStudio
-:pushpin: 04_Tidyverse
-:pushpin: 05_GGplot_Visualization
-:pushpin: 12_Programming_Basics
+:pushpin:02_RStudio
+
+:pushpin:04_Tidyverse
+
+:pushpin:05_GGplot_Visualization
+
+:pushpin:12_Programming_Basics
 
 # Links to Other Modules
-:pushpin: 09_Working_With_Protein_Structures
-:pushpin: 11_2D_Genomics
+:pushpin:09_Working_With_Protein_Structures
+
+:pushpin:11_2D_Genomics
 
 # CM515-course-2025
 
