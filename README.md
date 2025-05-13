@@ -5,7 +5,7 @@
 
 :pushpin:([05_GGplot_Visualization](https://github.com/houga582/CM515-course-2025/tree/main/modules/05_GGplot_Visualization))
 
-:pushpin:12_Programming_Basics
+:pushpin:([12_Programming_Basics](https://github.com/houga582/CM515-course-2025/tree/main/modules/12_Programming_Basics))
 
 # Links to Other Modules
 :pushpin:09_Working_With_Protein_Structures
