@@ -3,7 +3,7 @@
 
 :pushpin:([04_Tidyverse](https://github.com/houga582/CM515-course-2025/tree/main/modules/04_Tidyverse))
 
-:pushpin:05_GGplot_Visualization
+:pushpin:([05_GGplot_Visualization](https://github.com/houga582/CM515-course-2025/tree/main/modules/05_GGplot_Visualization))
 
 :pushpin:12_Programming_Basics
 
